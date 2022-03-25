@@ -1,0 +1,1 @@
+This project aims to analyze different concurrent implementations of the Merge Sort algorithm and see how they compare to the standard Merge Sort algorithm. To do so, it utilizes java to implement these concurrent algorithms and python to analyze and visualize the data.
