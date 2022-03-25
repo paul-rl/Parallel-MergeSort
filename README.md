@@ -2,7 +2,7 @@
 This project aims to analyze different concurrent implementations of the Merge Sort algorithm and see how they compare to the standard Merge Sort algorithm. To do so, it utilizes java to implement these concurrent algorithms and python to analyze and visualize the data. As a result, it is necessary to first compilee and run thejava files so as to generate the CSV file that is then utilized to analyze the data using python.
 
 ## Dependencies
-In order to appropriately compile the python script needed to visualize data, the widely-popular libraries pandas, numpy, and matplotlib are necessary. There is plenty of documentation on how to acquire these libraries, but if necessary use this [link.](http://www.google.com)
+In order to appropriately compile the python script needed to visualize data, the widely-popular libraries pandas, numpy, and matplotlib are necessary. There is plenty of documentation on how to acquire these libraries, but if necessary use this [link.](https://letmegooglethat.com/?q=How+to+download+pandas%2C+numpy%2C+and+matplotlib)
 ## Compilation of Algorithms
 In order to compile the java code that will run different algorithms and generate a CSV file with all of the empirical data acquired, all that is needed to do is utilize the following commands:
 ```
