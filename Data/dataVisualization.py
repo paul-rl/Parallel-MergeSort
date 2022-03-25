@@ -42,5 +42,3 @@ plt.savefig("Data/results.png")
 plt.legend()
 plt.show()
 print(df.describe())
-
-# Save image
